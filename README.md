@@ -2,21 +2,21 @@ WBTC 2015
 
 <h1> Exercise 1</h1>
 
-Design IRI-Patterns
+<h2>Design IRI-Patterns<h2>
 I will use my first and last name in the domain address to makes it easier to everybody to remember my webpage. 
 Hence I am Italian but born and raised in Switzerland, neither the top level domain .it nor the top level domain .ch makes really sense to me. That’s why I chose .com as my top level domain.
 
 http://stefanomarcone.com/home
 The purpose of this Page is to welcome visitors on my website. From here they can reach all areas of my webpage.
 
-http://stefanomarcone.com/about
-•	http://stefanomarcone.com/about#general
-•	http://stefanomarcone.com/about#interests
+http://stefanomarcone.com/about </br>
+•	http://stefanomarcone.com/about#general</br>
+•	http://stefanomarcone.com/about#interests</br>
 •	http://stefanomarcone.com/about#social media
 On this page the visitor can find general information about my personality, interests and social media. 
 
-http://stefanomarcone.com/education
-•	http://stefanomarcone.com/education#highSchool
+http://stefanomarcone.com/education</br>
+•	http://stefanomarcone.com/education#highSchool</br>
 •	http://stefanomarcone.com/education#Bsc
 The visitor will find information about my education on this page
 
