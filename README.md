@@ -1,7 +1,5 @@
 WBTC 2015
 
-<body>
-
 <h1> Exercise 1</h1>
 
 <h2> Design IRI-Patterns </h2>
@@ -40,6 +38,3 @@ WBTC 2015
         <td></td>
     </tr>
 </table
-
-</body>
-</html>
