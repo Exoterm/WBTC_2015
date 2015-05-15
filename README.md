@@ -34,3 +34,6 @@ I want to give any visitor the chance to contact or just feedback me. I will lis
 Linked data is the connection between single parts of raw material. I will take cars to make an example.
 A car has different row data linked to it. We have a number for the strength, we have a size of the car, we have data about what full it needs etc. But this all is just data. One piece just sais “diesel” – this single data makes no sense yet.
 Linked data gives this data a sense. It links “diesel” to a certain car. It is because of the link, that data is usable to us. 
+
+
+<h1> Exercise 2</h1>
