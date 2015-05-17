@@ -44,11 +44,11 @@ List of my account on the web </br>
   
 List of my relationships </br>
   •	Siblings </br>
-    o	Roberto </br>
-    o	Giulia </br>
+       o	Roberto </br>
+       o	Giulia </br>
   •	Friends </br>
-    o	Florin </br>
-    o	Luca </br>
+       o	Florin </br>
+       o	Luca </br>
     
 List of my interests </br>
   •	Futsal </br>
@@ -57,5 +57,5 @@ List of my interests </br>
   
 List of my work experience </br>
   •	M.I.S. Trend </br>
- </tab> •	Schöpfer AG </br>
+  •	Schöpfer AG </br>
 
