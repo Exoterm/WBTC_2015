@@ -57,5 +57,5 @@ List of my interests </br>
   
 List of my work experience </br>
   •	M.I.S. Trend </br>
-  •	Schöpfer AG </br>
+ </tab> •	Schöpfer AG </br>
 
