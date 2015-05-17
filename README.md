@@ -43,8 +43,8 @@ List of my account on the web </br>
   •	My YouTube account </br>
   
 List of my relationships </br>
-  •	Siblings </br>
-  </tab id=t1> o	Roberto </br>
+  •	Siblings</tab id=t1> </br>
+  </tab to=t1>o	Roberto </br>
        o	Giulia </br>
   •	Friends </br>
        o	Florin </br>
