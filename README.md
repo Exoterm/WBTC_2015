@@ -43,12 +43,12 @@ List of my account on the web </br>
   •	My YouTube account </br>
   
 List of my relationships </br>
-  •	Siblings</tab id=t1> </br>
-  </tab to=t1>o	Roberto </br>
-       o	Giulia </br>
+  •	Siblings </br>
+  Roberto </br>
+  Giulia </br>
   •	Friends </br>
-       o	Florin </br>
-       o	Luca </br>
+  Florin </br>
+  Luca </br>
     
 List of my interests </br>
   •	Futsal </br>
