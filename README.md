@@ -38,7 +38,7 @@ Linked data gives this data a sense. It links “diesel” to a certain car. It 
 
 <h1> Exercise 2</h1>
 
-List of my account on the web
+List of my account on the web </br>
   •	My Facebook account </br>
   •	My YouTube account </br>
   
