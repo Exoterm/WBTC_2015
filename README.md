@@ -37,3 +37,22 @@ Linked data gives this data a sense. It links “diesel” to a certain car. It 
 
 
 <h1> Exercise 2</h1>
+
+List of my account on the web </br>
+•	My Facebook account </br>
+•	My YouTube account </br>
+List of my relationships </br>
+•	Siblings </br>
+o	Roberto </br>
+o	Giulia </br>
+•	Friends </br>
+o	Florin </br>
+o	Luca </br>
+List of my interests </br>
+•	Futsal </br>
+•	Snowboarding </br>
+•	Drums </br>
+List of my work experience </br>
+•	M.I.S. Trend </br>
+•	Schöpfer AG </br>
+
